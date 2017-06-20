@@ -26,8 +26,8 @@
       <div class="jumbotron">
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <h2>A Workshop< for Librarians</a>
-	    <h2>{{page.venue}}</h2>
+            <h2>A Workshop for Librarians</a>
+	    <h3>{{page.venue}}</h3>
             <div class="row">
               <div class="col-md-6">
                 <p>{{page.humandate}}</p>
@@ -44,7 +44,7 @@
                 </p>
                 {% if page.helper %}
                 <p>
-                <strong>Helpers:</strong>
+                <strong>Helper:</strong>
                 {{page.helper | join: ', ' %}}
                 </p>
                 {% endif %}
