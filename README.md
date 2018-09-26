@@ -1,3 +1,8 @@
+https://shlake.github.io/SE-DataSymposiumWorkshop/
+
+
+This repository was created from the Data Carpentry template.
+
 =======
 
 This repository is the [Data Carpentry](http://datacarpentry.org)
